@@ -1,3 +1,9 @@
+dtkcommon (5.6.16+test) unstable; urgency=medium
+
+  * Test 5.6.16+test
+
+ -- Yixue Wang <wangyixue@deepin.org>  Thu, 17 Aug 2023 13:18:45 +0800
+
 dtkcommon (5.6.15) unstable; urgency=medium
 
   * Release 5.6.15
